@@ -1,2 +1,1 @@
-# maste
-sc2=trash
+# master
